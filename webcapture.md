@@ -1,1 +1,1 @@
-To capture webpages or social media posts, NVivo uses NCapture - a browser plugin that captures web content and converts it to PDF for import into NVivo.
+To capture webpages or social media posts, NVivo uses NCapture - a browser plugin that captures web content and converts it to PDF for import into NVivo: https://help-nv.qsrinternational.com/20/win/Content/ncapture/ncapture.htm
